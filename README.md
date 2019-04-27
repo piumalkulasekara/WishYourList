@@ -1,7 +1,7 @@
 # WishYourList
 
-## Coursework Description
-The aim of this coursework is to develop a simple wish list application. This application will allow a
+## Project Description
+The aim of this project is to develop a simple wish list application. This application will allow a
 logged-in user (and only logged-in users) to:
 
 1. **Create a wish list (they may only create one per account). This wish list is for presents or
@@ -23,7 +23,3 @@ In addition, users must be able to:
 
 7. _**Register and create an account**_
 8. _**Login to their account to see/edit or create their wish list**_
-
-### Your application MUST be written using PHP/CodeIgniter and use Javascript AND Backbone. 
-
-:file_folder: *Please follow this [Marking Scheme](https://github.com/piumalkulasekara/WishYourList/blob/master/MarkingScheme.md)**
